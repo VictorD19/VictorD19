@@ -32,11 +32,11 @@
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=bertramvictor8@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victord08/" /></a>
+  <a href="https://www.linkedin.com/in/victord08/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5549998218294&text=Opa%20victor%20tudo%20bem%2C%20gostaria%20que%20entrar%20em%20contacto%20com%20voc%C3%AA."/></a>
+  <a href="https://api.whatsapp.com/send?phone=5549998218294&text=Opa%20victor%20tudo%20bem%2C%20gostaria%20que%20entrar%20em%20contacto%20com%20voc%C3%AA." alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
 
 
 </p>  
