@@ -2,7 +2,6 @@
 
 <p align="left"> 
   Oi tudo bem sou Victor Bertram tenho 21 anos e uma das coisas que mas gosto é programar, atualmente trabalho como desenvolvedor freelancer realciona ao <strong>Front end</strong>, mas tambem possuo conhecimento na area do <strong> back end</strong>. Cada dia que passa busco aprimorar minhas avilidades, para me tornar um melhor desenvolvedor. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 <p align="left"> 
  Neste Momento estou em busca de uma oportunidade como desenvolvedor junior, sendo ela no Front-end ou no Back-end
