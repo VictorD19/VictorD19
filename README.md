@@ -1,15 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Oi tudo bem sou Victor Bertram tenho 22 anos e uma das coisas que mas gosto é programar, atualmente trabalho como desenvolvedor freelancer realciona ao <strong>Front end</strong>, mas tambem possuo conhecimento na area do <strong> back end</strong>. Cada dia que passa busco aprimorar minhas avilidades, para me tornar um melhor desenvolvedor. <br>
-</p>
-<p align="left"> 
- Neste Momento estou em busca de uma oportunidade como desenvolvedor junior, sendo ela no Front-end ou no Back-end
+  Oi tudo bem sou Victor Bertram uma das coisas que mas gosto é programar, atualmente trabalho como Desenvolvedor Full Stack na multisoftware
 </p>
 
 
 <p align="left">
-  ⌨️ Linguagens e Frameworks: <br>   <strong> Front-End  ( Html, Css, Javascript, ReactJs, styled components, bootstrap, Formik , yup ) <br> Back-End( NodeJs, ExpressJs, Php, Laravel, Yup,Sequelize )</strong>
+  ⌨️ Linguagens e Frameworks: <br>   <strong> Front-End  ( Html, Css, Javascript, ReactJs, styled components, bootstrap, Formik , yup ) <br> Back-End( NodeJs, ExpressJs, C#, Yup,Sequelize )</strong>
 </p>
 
 <p align="left">
